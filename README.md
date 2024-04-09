@@ -1,5 +1,7 @@
 # Spring Boot Shopping Cart Web App
 
+<img width="692" alt="Screenshot 2024-04-08 at 12 16 42 PM" src="https://github.com/MunnaAli007/Spring-boot-app-jenkins-k8s/assets/142616112/e1b3b5c2-443f-4465-9862-4802b321f6de">
+
 ## About
 
 This is a demo project for practicing Spring + Thymeleaf. The idea was to build some basic shopping cart web app.
